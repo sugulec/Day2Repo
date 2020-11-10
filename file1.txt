@@ -1,0 +1,37 @@
+If you have issue seeing your username
+follow these steps
+Create a folder called Day2Repo
+Open this in Atom text editor
+Option 1: You can drag and drop this folder to atom
+Option 2 : from top menu File→ Add Project Folder
+Currently this is just a regular folder that git does not track yet.
+Click on git button on the right bottom corner of Atom window
+Click Create Repository and Select a location you desire
+Now add 2 new files file1.txt file2.txt
+Immediately on the right side of atom git section , you will observe 2 files are in the Unstaged Changes section (staging the changes before commit is manual step here in atom and many other tools unlike Github Desktop app)
+Click on stage all button it will move to staged changes
+Now provide a commit message and commit the changes
+Observe the history
+Click on GitHub on the right bottom corner of Atom
+10:32
+Create a folder called Day2Repo
+Open this in Atom text editor
+Option 1: You can drag and drop this folder to atom
+Option 2 : from top menu File→ Add Project Folder
+Currently this is just a regular folder that git does not track yet.
+Click on git button on the right bottom corner of Atom window
+Click Create Repository and Select a location you desire
+Now add 2 new files file1.txt file2.txt
+Immediately on the right side of atom git section , you will observe 2 files are in the Unstaged Changes section (staging the changes before commit is manual step here in atom and many other tools unlike Github Desktop app)
+Click on stage all button it will move to staged changes
+Now provide a commit message and commit the changes
+Observe the history
+Click on GitHub on the right bottom corner of Atom
+Make sure you are already logged in (if you have issue , use previous step to fix the login issue) . and Publish repository
+Observe the remote repository created in Github.com
+go back to Atom , make more change in file1.txt
+stage the change , commit with proper commit message ,observe the history
+Push the commits to remote repository and observe the change
+Optionally :
+Go to Github.com and create a new file called file3.txt with some content. commit the file directly in Github.com
+come back to atom and fetch origin, and pull down the commits from the remote repo
